@@ -1,1 +1,3 @@
-Repository for a C++ project implementing a priority queue for elements with different priorities and supporting various data types.
+Priority Queue Library
+
+C++ library for managing priority queues with support for various data types.
